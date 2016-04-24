@@ -4,4 +4,5 @@
 /typings
 /app/*.js
 /app/*.js.map
-/dist
+/list
+/vendor
